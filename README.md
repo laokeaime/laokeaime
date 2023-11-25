@@ -20,8 +20,6 @@ Journal of Intelligent & Fuzzy Systems. (中科院四区，2.0)
 ### 关于我
 - [技术笔记](https://laokeaime.github.io/)
 
-[![laokeaime's GitHub stats](https://github-readme-stats.vercel.app/api?username=laokeaime)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ![laokeaime's github stats](https://github-readme-stats.vercel.app/api/?username=laokeaime&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 <br>
