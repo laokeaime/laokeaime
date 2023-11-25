@@ -19,6 +19,10 @@
 Journal of Intelligent & Fuzzy Systems. (中科院四区，2.0)
 - 梁兴柱,**毕飞龙**. 一种提升轻量级网络检测精度的车道线检测方法.专利申请号: 202210915917.9
 
+<a href="https://github.com/laokeaime">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=laokeaime&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
 ### 开源项目
 - [Trained teacher: Who is good at teaching](https://github.com/JSJ515-Group/Trained_teacher)
 
@@ -29,9 +33,7 @@ Journal of Intelligent & Fuzzy Systems. (中科院四区，2.0)
 ### 关于我
 - [技术笔记](https://laokeaime.github.io/)
 
-<a href="https://github.com/laokeaime">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=laokeaime&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
+
 
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
