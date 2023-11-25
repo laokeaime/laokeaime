@@ -27,6 +27,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
+### 📚 Academic Achievements
+- 1. Xingzhu Liang, Feilong Bi, Wen Liu, et al. [Trained Teacher: who is good at teaching. Displays.](https://www.sciencedirect.com/science/article/abs/pii/S0141938223001762) (中科院二区，4.3)
+- 2. Xingzhu Liang, Wen Liu, Feilong Bi, et al. FEFR: Feature Early Fusion and Reconstruction for Online Knowledge Distillation.
+Journal of Intelligent & Fuzzy Systems. (中科院四区，2.0)
+- 3. 梁兴柱,毕飞龙. 一种提升轻量级网络检测精度的车道线检测方法.专利申请号: 202210915917.9
+
+   
 ### 开源项目
 - [Trained teacher: Who is good at teaching](https://github.com/JSJ515-Group/Trained_teacher)
 
