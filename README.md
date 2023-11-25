@@ -29,18 +29,10 @@ Journal of Intelligent & Fuzzy Systems. (中科院四区，2.0)
 ### 关于我
 - [技术笔记](https://laokeaime.github.io/)
 
+<a href="https://github.com/laokeaime">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=laokeaime&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
 
-![laokeaime's github stats](https://github-readme-stats.vercel.app/api/?username=laokeaime&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-<br>
-
-  <a href="https://github.com/laokeaime/github-readme-stats">
-    <img align="right" alt="Jugal Bhatt | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
-  <a href="https://github.com/laokeaime/github-readme-stats">
-    <img align="right" alt="Jugal Bhatt | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
-  
-<br>
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
